@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oDFjiji92n6p/QTHZ9kebH20ImF439rIYlzHb5jT0/M=",
+  "Source": "sample-http-service",
+  "BasePath": "_content/sample-http-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
